@@ -1,6 +1,6 @@
 # Umpire
 
-TODO: Write a gem description
+under construction
 
 ## Installation
 
@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+config.exceptions_app = Umpire::PublicExceptions.new(Rails.public_path)
+```
 
 ## Contributing
 
