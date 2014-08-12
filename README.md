@@ -1,6 +1,8 @@
 # Umpire
 
-under construction
+under construction :construction:
+
+This gem is aim at making ultra easy to handle error on rails :smiley:
 
 ## Installation
 
